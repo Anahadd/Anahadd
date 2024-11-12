@@ -41,6 +41,7 @@ A passionate developer with a strong foundation in game development, hackathon p
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 - ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools & Frameworks
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
