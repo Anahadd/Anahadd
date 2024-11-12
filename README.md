@@ -11,6 +11,9 @@ A passionate developer with a strong foundation in game development, hackathon p
 - Developed 2D games in **Java** and immersive 3D experiences in **Unity/C#**.
 - Enhanced gameplay mechanics and user engagement through interactive storytelling and responsive environments.
 
+### 🤖 Robotics
+- 🚗 Created Our Very Own Robotic Car using Arduino, C/C++ (Arduino IDE), and an ultrasonic sensor for obstacle detection, combined with DC motors and a motor driver module for movement control. Integrated optional Bluetooth for remote operation.
+
 ### 💻 Hackathon & Personal Projects
 - **ThermoPrint**: Created a hardware/software project using **Arduino/C++** to build a thermochromic printer that utilized heat to write and erase on reusable sheets. 🏆 ***1st place at BearHacks*** for eco-friendly innovation
 - **CrisisCompass - NewHacks Project**: Developed a web tool integrating the **OpenAI API** to assess and prioritize emergency responses based on severity by aggregating data from trusted sources.
@@ -60,8 +63,8 @@ A passionate developer with a strong foundation in game development, hackathon p
 ## 🌐 Connect with Me
 Feel free to reach out and explore my repositories. I'm always open for collaboration, feedback, and innovative projects! If you have a concept or challenge, let’s make it happen! ✨
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/anahad)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Anahadd)
 
 ---
 
