@@ -78,9 +78,14 @@ Contact: ✉️ addhaliw@uwaterloo.ca
 ## 🌐 Connect with Me
 Feel free to reach out and explore my repositories. I'm always open for collaboration, feedback, and innovative projects! If you have a concept or challenge, let’s make it happen! ✨
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anahad)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Anahadd)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/anahad">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="https://github.com/Anahadd">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="30">
+  </a>
+</p>
 ---
 
 🌟 *“Collaboration breeds innovation.”* Let's build the future together!
