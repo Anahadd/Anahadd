@@ -12,19 +12,20 @@ A passionate developer with a strong foundation in game development, hackathon p
 - Enhanced gameplay mechanics and user engagement through interactive storytelling and responsive environments.
 
 ### 💻 Hackathon & Personal Projects
-- **ThermoPrint**: Created a hardware/software project using **Arduino/C++** to build a thermochromic printer that utilized heat to write and erase on reusable sheets. 🏆 *1st place at BearHacks* for eco-friendly innovation.
-- **CrisisCompass**: Developed a web tool integrating the **OpenAI API** to assess and prioritize emergency responses based on severity by aggregating data from trusted sources.
+- **ThermoPrint - 1ST OVERALL BEARHACKS**: Created a hardware/software project using **Arduino/C++** to build a thermochromic printer that utilized heat to write and erase on reusable sheets. 🏆 *1st place at BearHacks* for eco-friendly innovation.
+- **CrisisCompass - NewHacks Project**: Developed a web tool integrating the **OpenAI API** to assess and prioritize emergency responses based on severity by aggregating data from trusted sources.
 - **Sign-to-Speech Translator**: Engineered a live sign language-to-speech web app using **computer vision** and **real-time processing**.
 
 ### 💼 Work Experience
-#### 🌐 Virtual Labs - Game Developer Intern
-- Contributed to the **Unity SDK** by developing a 3D **First-Person Shooter** game.
-- Built a comprehensive **cryptocurrency reward system** to enhance user engagement through in-game transactions.
 
 #### 🤖 Prequel - Software Engineer Intern
 - Fine-tuned Prequel’s proprietary LLM, *Poppy*, using **OpenAI's Whisper API** for transcribing and training on startup meeting data, boosting model performance and accuracy.
 - Performed extensive **product analysis** to measure LLM effectiveness, analyzing user engagement and output accuracy.
 - Authored detailed **API and architecture documentation** for efficient team onboarding and support.
+
+#### 🌐 Virtual Labs - Game Developer Intern
+- Contributed to the **Unity SDK** by developing a 3D **First-Person Shooter** game.
+- Built a comprehensive **cryptocurrency reward system** to enhance user engagement through in-game transactions.
 
 ---
 
