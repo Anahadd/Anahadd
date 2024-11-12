@@ -67,7 +67,7 @@ A passionate developer with a strong foundation in game development, hackathon p
 ## 🌐 Connect with Me
 Feel free to reach out and explore my repositories. I'm always open for collaboration, feedback, and innovative projects! If you have a concept or challenge, let’s make it happen! ✨
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/anahad)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anahad)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Anahadd)
 
 ---
