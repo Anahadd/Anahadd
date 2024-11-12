@@ -12,7 +12,7 @@ A passionate developer with a strong foundation in game development, hackathon p
 - Enhanced gameplay mechanics and user engagement through interactive storytelling and responsive environments.
 
 ### 💻 Hackathon & Personal Projects
-- **ThermoPrint** 🏆 *1st place at BearHacks* for eco-friendly innovation: Created a hardware/software project using **Arduino/C++** to build a thermochromic printer that utilized heat to write and erase on reusable sheets. 
+- **ThermoPrint**: Created a hardware/software project using **Arduino/C++** to build a thermochromic printer that utilized heat to write and erase on reusable sheets. 🏆 ***1st place at BearHacks*** for eco-friendly innovation
 - **CrisisCompass - NewHacks Project**: Developed a web tool integrating the **OpenAI API** to assess and prioritize emergency responses based on severity by aggregating data from trusted sources.
 - **Sign-to-Speech Translator**: Engineered a live sign language-to-speech web app using **computer vision** and **real-time processing**.
 
