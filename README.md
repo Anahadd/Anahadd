@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Anahad Dhaliwal
 
-### 🎓 1A Computer Engineering Student @ University of Waterloo
+### 🎓 1B Computer Engineering Student @ University of Waterloo
 A passionate developer with a strong foundation in game development, hackathon participation, and software engineering. I love solving real-world problems through technology and collaborating on innovative projects. 
 Contact: ✉️ addhaliw@uwaterloo.ca
 
