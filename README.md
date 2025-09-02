@@ -1,30 +1,8 @@
 # 👋 Hi there! I'm Anahad Dhaliwal
 
-### 🎓 1B Computer Engineering Student @ University of Waterloo
+### 🎓 2A Computer Engineering Student @ University of Waterloo
 A passionate developer with a strong foundation in game development, hackathon participation, and software engineering. I love solving real-world problems through technology and collaborating on innovative projects. 
 Contact: ✉️ addhaliw@uwaterloo.ca
-
----
-
-## 🔥 My Journey So Far
-
-### 🕹️ Game Development Enthusiast
-- Developed 2D games in **Java** and immersive 3D experiences in **Unity/C#**.
-- Enhanced gameplay mechanics and user engagement through interactive storytelling and responsive environments.
-
-### 🤖 Robotics
-- 🚗 Created Our Very Own Robotic Car using Arduino, C/C++ (Arduino IDE), and an ultrasonic sensor for obstacle detection, combined with DC motors and a motor driver module for movement control. Integrated optional Bluetooth for remote operation.
-
-### 💼 Work Experience
-
-#### 🤖 Prequel - Software Engineer Intern
-- Fine-tuned Prequel’s proprietary LLM, *Poppy*, using **OpenAI's Whisper API** for transcribing and training on startup meeting data, boosting model performance and accuracy.
-- Performed extensive **product analysis** to measure LLM effectiveness, analyzing user engagement and output accuracy.
-- Authored detailed **API and architecture documentation** for efficient team onboarding and support.
-
-#### 🌐 Virtual Labs - Game Developer Intern
-- Contributed to the **Unity SDK** by developing a 3D **First-Person Shooter** game.
-- Built a comprehensive **cryptocurrency reward system** to enhance user engagement through in-game transactions.
 
 ---
 
